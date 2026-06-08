@@ -1,0 +1,21 @@
+:root{
+    --cor-fundo:#288abf;
+    --cor-principal:#162857;
+    --cor-secundária:#488dab;
+}
+
+body{
+    background-color: var(--cor-fundo);
+    color: var(--cor-principal);
+    
+   
+}
+.imagem-1{
+    size:10%
+}
+.imagem-2{
+    size:10%
+}
+.imagem-3{
+    size:10%
+}
